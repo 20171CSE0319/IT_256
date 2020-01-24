@@ -1,3 +1,3 @@
 # IT_256
-welcome 6cse5
-lab course
+welcome
+presidency university
